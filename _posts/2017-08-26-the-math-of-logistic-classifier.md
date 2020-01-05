@@ -7,9 +7,6 @@ image: '/images/posts/2017-08-26-the-math-of-logistic-classifier/neuron.png'
 
 This post demonstrates the mathematical model behind **logistic regression**, which serves as the building block of the [deep learning](https://en.wikipedia.org/wiki/Deep_learning). I write this post to help others understand deep learning, I also write it for myself to learn deep learning more deeply.
 
-I break down each subject into two posts, the **math post** explaining how an idea works theoretically, and the **code post** demonstrating how to implement the idea into code. To demonstrate `logistic regression`, I will apply the theory to [image recognition](https://en.wikipedia.org/wiki/Pattern_recognition), a well-studied machine learning subject, later in the **code post**. This post lays the foundation for understanding the model.
-
-
 ## Model after biological neuron
 
 Modern deep learning techniques model after biological cognition, the basic unit of which is neuron. It is the building block of deep learning starts with neuron-inspired math modeling using logistic regression. The math behind a simple logistic regression classifier looks like below:
