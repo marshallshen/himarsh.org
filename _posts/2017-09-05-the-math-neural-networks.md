@@ -2,7 +2,7 @@
 layout:     post
 title:      The math of neural networks
 tags: ["AI", "Machine Learning"]
-image: '/images/posts/2017-09-05-the-math-neural-networks/2_layer_neural_network.png'
+image: '/images/posts/2017-09-05-the-math-neural-networks/cover.svg'
 ---
 
 Building neural networks is at the heart of any deep learning technique. Neural networks is a series of forward and backward propagations to train paramters in the model, and it is built on the unit of logistic regression classifiers. This post will expand based on [the math of logistic regression](http://himarsh.org/the-math-of-logistic-regression/) to build more advanced neural networks in mathematical terms.
@@ -13,15 +13,15 @@ Before diving into the details of the mathematical model, we need to have a big 
 
 > the general methodology to build a Neural Network is to:
 >
->  1. Define the neural network structure (number of input units, number of hidden units, etc.)
+>  Define the neural network structure (number of input units, number of hidden units, etc.)
 >
->  2. Initialize the model's parameters
+>  Initialize the model's parameters
 >  
->  3. Loop
->    - Implement forward propagation
->    - Compute loss
->    - Implement backward propagation to get the gradients
->    - Update parameters (gradients)
+>  Loop
+>   - Implement forward propagation
+>   - Compute loss
+>   - Implement backward propagation to get the gradients
+>   - Update parameters (gradients)
 
 To make it easier to understand, we take an iterative approach to break down the math of neural networks, first we analyze a **2-layer neural network**, then we analyze **L-layer neural network**.
 

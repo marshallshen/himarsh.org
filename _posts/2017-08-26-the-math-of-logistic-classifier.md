@@ -2,7 +2,7 @@
 layout:     post
 title:      The math of logistic classifier
 tags: ["AI", "Machine Learning"]
-image: '/images/posts/2017-08-26-the-math-of-logistic-classifier/neuron.png'
+image: '/images/posts/2017-08-26-the-math-of-logistic-classifier/cover.svg'
 ---
 
 This post demonstrates the mathematical model behind **logistic regression**, which serves as the building block of the [deep learning](https://en.wikipedia.org/wiki/Deep_learning). I write this post to help others understand deep learning, I also write it for myself to learn deep learning more deeply.
