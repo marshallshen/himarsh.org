@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      The math of neural networks
-tags: ["AI", "Machine Learning"]
+tags: ["tech"]
 image: '/images/posts/2017-09-05-the-math-neural-networks/cover.svg'
 ---
 

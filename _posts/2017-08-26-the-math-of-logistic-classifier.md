@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      The math of logistic classifier
-tags: ["AI", "Machine Learning"]
+tags: ["tech"]
 image: '/images/posts/2017-08-26-the-math-of-logistic-classifier/cover.svg'
 ---
 
