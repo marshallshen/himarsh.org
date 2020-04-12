@@ -19,6 +19,6 @@ We can use the Internet as a medium to learn new things. We can go to sites like
 
 We can use the Internet as a medium to grow with others. Join different meetup groups of interest and meet like-minded people. We can use LinkedIn to expand our professional network, reach out to others for mentorship.
 
-We can use the Internet as a medium to achieve personal goals. I can keep online checklists on the things we want to accomplish every day or every week. We can write blog posts to share our thoughts and progress on our personal goals.
+We can use the Internet as a medium to achieve personal goals. We can keep online checklists on the things we want to accomplish every day or every week. We can write blog posts to share our thoughts and progress on our personal goals.
 
 Thinking of the Internet as a medium takes conscious effort, and it takes practice to form such a habit. But once we embed that mindset in our daily life, we become the masters of technology, which enables the Internet to benefit us, not consume us.
