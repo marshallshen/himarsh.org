@@ -7,7 +7,7 @@ image: '/images/posts/2020-05-19-on-pursuit/cover.svg'
 
 The idea of pursuit dominates the psyche of modern society. Countries pursue GDP, which should always increase. Companies pursue revenue and profit, which should ever grow.  Driven individuals want to maximize their potentials, and we should always be learning and tackling new challenges.
 
-Throughout history, we have thought about pursuit in different ways. Plato argued about the quest for power in his political thought. Sigmund Floyd wrote in detail that human beings are driven by the pursuit of pleasure. Dr. Victor Frankl, a holocaust survivor, concluded that we spend our lives searching for meaning. In Buddhism, Duḥkha - the suffering, originates from the act of the pursuit itself.
+Throughout history, we have thought about pursuit in different ways. "Life, liberty and the pursuit of happiness" is a founding principle of United States. Sigmund Freud wrote in detail that human beings are driven by the pursuit of pleasure. Dr. Victor Frankl, a holocaust survivor, concluded that we spend our lives searching for meaning. In Buddhism, Duḥkha - the suffering, originates from the act of the pursuit itself.
 
 So why do we pursue? If we take a step back and analyze standard established metrics - country’s GDP, company’s quarterly earnings, personal goals, it’s not clear why we choose these metrics. Why a country’s GDP has to continue to grow? Why a company has to make more and more profits? Why we, as individuals, have to continue to improve and learn new things?
 
