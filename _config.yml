@@ -7,14 +7,12 @@
 
 # Site settings
 title:       Marshall Shen
-email:       ''
+email:       'marshall.shen.writes@gmail.com'
 description: 'My Corner of the Internet'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://himarsh.org' # The base hostname & protocol for your site
-twitter:     'marshallshen'
-github:      'marshallshen'
-instagram:   'himarsh'
-facebook:    ''
+twitter:     'https://twitter.com/marshallshen'
+github:      'https://github.com/marshallshen'
 
 markdown:  kramdown
 permalink: pretty
