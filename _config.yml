@@ -25,6 +25,7 @@ plugins:
   - jekyll-paginate
   - jekyll/tagging
   - jekyll-katex
+  - jekyll-seo-tag
 
 include:
   - _pages
