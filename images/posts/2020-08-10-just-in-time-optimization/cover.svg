@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1500px" height="926px" viewBox="0 0 1500 926" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>just-in-time-optimization</title>
+    <g id="just-in-time-optimization" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cover" transform="translate(285.000000, 69.000000)">
+            <circle id="Oval" fill="#F1F1F1" fill-rule="nonzero" cx="748.16555" cy="49.47737" r="14.75556"></circle>
+            <circle id="Oval" fill="#F1F1F1" fill-rule="nonzero" cx="661.16555" cy="620.47737" r="14.75556"></circle>
+            <circle id="Oval" fill="#F1F1F1" fill-rule="nonzero" cx="294.16555" cy="191.47737" r="14.75556"></circle>
+            <ellipse id="Oval" fill="#F1F1F1" fill-rule="nonzero" cx="157" cy="765" rx="157" ry="23"></ellipse>
+            <path d="M239.93615,598.976 L279.351,586.62838 C277.169545,570.236345 272.189834,554.34055 264.62889,539.63376 L225.21405,551.98133 C234.463247,565.940493 239.56777,582.234728 239.93615,598.976 Z" id="Path" fill="#00B0FF" fill-rule="nonzero"></path>
+            <circle id="Oval" fill="#2F2E41" fill-rule="nonzero" cx="145.20015" cy="266.35278" r="36.79985"></circle>
+            <polygon id="Path" fill="#9F616A" fill-rule="nonzero" points="105.5 727.5 98.5 757.5 115.5 757.5 122.5 723.5"></polygon>
+            <polygon id="Path" fill="#9F616A" fill-rule="nonzero" points="187.5 727.5 187.5 755.5 204.5 757.5 204.5 727.5"></polygon>
+            <path d="M100.5,409.5 C100.5,409.5 102.5,452.5 104.5,455.5 C106.5,458.5 124.5,501.5 124.5,501.5 L133.5,473.5 C133.5,473.5 119.5,450.5 121.5,437.5 C123.5,424.5 122.24,408.50289 122.24,408.50289 L100.5,409.5 Z" id="Path" fill="#9F616A" fill-rule="nonzero"></path>
+            <circle id="Oval" fill="#9F616A" fill-rule="nonzero" cx="157.5" cy="277.5" r="28"></circle>
+            <path d="M134.5,280.5 C134.5,280.5 135.5,320.5 128.5,326.5 C121.5,332.5 168.5,327.5 168.5,327.5 C168.5,327.5 158.5,299.5 166.5,293.5 C174.5,287.5 134.5,280.5 134.5,280.5 Z" id="Path" fill="#9F616A" fill-rule="nonzero"></path>
+            <path d="M171.5,325.5 C171.5,325.5 165.5,314.5 157.5,315.5 C149.5,316.5 123.5,318.5 122.5,320.5 C121.5,322.5 118.5,329.5 116.5,331.5 C114.5,333.5 99.5,336.5 98.5,348.5 C97.5,360.5 134.5,433.5 134.5,433.5 C134.5,433.5 129.5,450.5 130.5,454.5 C131.5,458.5 125.5,470.5 126.5,475.5 C127.5,480.5 111.5,510.5 119.5,549.5 L119.5,612.5 C119.5,612.5 92.5,721.5 100.5,729.5 C108.5,737.5 135.5,732.5 140.5,729.5 C145.5,726.5 166.5,575.5 166.5,575.5 L176.5,524.5 L177.5,636.5 C177.5,636.5 175.5,730.5 182.5,733.5 C189.5,736.5 216.5,737.5 218.5,731.5 C220.05984,726.82049 227.7024,602.31131 230.99082,547.73357 C232.130036,528.894882 230.648275,509.989246 226.58797,491.55808 C222.42589,472.6804 216.3835,450.5015 209.5,441.5 C196.5,424.5 188.5,370.5 188.5,370.5 L205.5,339.5 C205.5,339.5 195.5,329.5 189.5,329.5 C183.5,329.5 171.5,325.5 171.5,325.5 Z" id="Path" fill="#2F2E41" fill-rule="nonzero"></path>
+            <path d="M104.5,341.5 L99.22643,345.08937 C99.22643,345.08937 95.5,409.5 98.5,413.5 C101.5,417.5 122.35728,415.54776 123.92864,412.02388 C125.5,408.5 104.5,341.5 104.5,341.5 Z" id="Path" fill="#2F2E41" fill-rule="nonzero"></path>
+            <path d="M186.5,401.5 C186.5,401.5 187.5,443.5 193.5,455.5 C199.5,467.5 221.5,517.5 221.5,517.5 C221.5,517.5 220.223,572.5315 231.36148,559.01575 C242.49996,545.5 235.5,513.5 235.5,513.5 L216.5,439.5 C216.5,439.5 206.5,406.5 207.5,396.5 C208.5,386.5 186.5,401.5 186.5,401.5 Z" id="Path" fill="#9F616A" fill-rule="nonzero"></path>
+            <path d="M204.5,739.29921 C204.5,739.29921 205.5,738.5 208.5,741.5 C211.5,744.5 219.5,748.5 218.5,759.5 C217.5,770.5 211.5,772.5 211.5,772.5 L211.5,769.5 L208.5,769.5 L208.5,774.5 C208.5,774.5 203.5,790.5 180.5,780.5 C180.5,780.5 179.5,772.5 180.5,767.5 C181.5,762.5 181.5,738.5 184.5,739.5 C187.5,740.5 195.5,741.5 197.5,745.5 C199.5,749.5 205.5,748.09843 204.5,739.29921 Z" id="Path" fill="#2F2E41" fill-rule="nonzero"></path>
+            <path d="M101.5,740.29921 C101.5,740.29921 100.5,739.5 97.5,742.5 C94.5,745.5 86.5,749.5 87.5,760.5 C88.5,771.5 94.5,773.5 94.5,773.5 L94.5,770.5 L97.5,770.5 L97.5,775.5 C97.5,775.5 102.5,791.5 125.5,781.5 C125.5,781.5 126.5,773.5 125.5,768.5 C124.5,763.5 124.5,739.5 121.5,740.5 C118.5,741.5 110.5,742.5 108.5,746.5 C106.5,750.5 100.5,749.09843 101.5,740.29921 Z" id="Path" fill="#2F2E41" fill-rule="nonzero"></path>
+            <path d="M191.5,336.5 L205.5,339.5 C205.5,339.5 205.5,361.5 209.5,370.5 C213.5,379.5 220.5,400.5 217.5,401.5 C214.5,402.5 186.5,416.5 184.5,408.5 C182.5,400.5 177.5,336.5 191.5,336.5 Z" id="Path" fill="#2F2E41" fill-rule="nonzero"></path>
+            <circle id="Oval" fill="#2F2E41" fill-rule="nonzero" cx="105.33366" cy="217.89966" r="36.79985"></circle>
+            <path d="M73.59183,248.3723 C83.2565613,255.357582 95.7067998,257.227031 106.996814,253.38818 C118.286828,249.549329 127.016992,240.478082 130.42054,229.0493 C128.690128,242.811559 119.368811,254.431885 106.309739,259.106789 C93.2506664,263.781693 78.6723791,260.716977 68.6010988,251.179503 C58.5298185,241.64203 54.6765045,227.252071 58.634,213.958 C56.9548905,227.30113 62.6904162,240.497168 73.59183,248.3723 L73.59183,248.3723 Z" id="Path" fill="#2F2E41" fill-rule="nonzero"></path>
+            <circle id="Oval" fill="#2F2E41" fill-rule="nonzero" cx="135.38687" cy="272.48608" r="26.98656"></circle>
+            <ellipse id="Oval" fill="#2F2E41" fill-rule="nonzero" cx="158.0801" cy="262.36611" rx="23.9199" ry="18.70659"></ellipse>
+            <ellipse id="Oval" fill="#A0616A" fill-rule="nonzero" cx="164.46023" cy="281.53469" rx="4.53977" ry="8.03191"></ellipse>
+            <rect id="Rectangle" fill="#F1F1F1" fill-rule="nonzero" transform="translate(600.232758, 303.890479) rotate(16.714336) translate(-600.232758, -303.890479) " x="333.232915" y="89.3906053" width="533.999686" height="428.999747"></rect>
+            <line x1="611.1651" y1="141.89293" x2="732.30548" y2="190.85793" id="Path" stroke="#3F3D56" stroke-width="2"></line>
+            <polygon id="Path" fill="#3F3D56" fill-rule="nonzero" points="614.244 151.96 616.058 151.113 611.876 142.182 621.09 138.664 620.374 136.795 609.153 141.082"></polygon>
+            <polygon id="Path" fill="#3F3D56" fill-rule="nonzero" points="723.096 195.958 722.38 194.089 731.593 190.572 727.412 181.64 729.226 180.793 734.316 191.673"></polygon>
+            <circle id="Oval" fill="#3F3D56" fill-rule="nonzero" cx="671.73528" cy="166.37543" r="11"></circle>
+            <line x1="601.93365" y1="481.35077" x2="713.53687" y2="413.40012" id="Path" stroke="#3F3D56" stroke-width="2"></line>
+            <polygon id="Path" fill="#3F3D56" fill-rule="nonzero" points="611.848 484.891 612.251 482.93 602.59 480.953 605.268 471.461 603.341 470.919 600.082 482.48"></polygon>
+            <polygon id="Path" fill="#3F3D56" fill-rule="nonzero" points="712.13 423.833 710.203 423.291 712.882 413.801 703.22 411.822 703.624 409.862 715.391 412.274"></polygon>
+            <circle id="Oval" fill="#3F3D56" fill-rule="nonzero" cx="657.73528" cy="447.37543" r="11"></circle>
+            <line x1="461.71552" y1="266.04443" x2="461.75507" y2="396.70642" id="Path" stroke="#3F3D56" stroke-width="2"></line>
+            <polygon id="Path" fill="#3F3D56" fill-rule="nonzero" points="453.538 272.674 455.003 274.038 461.714 266.812 468.431 274.034 469.895 272.669 461.713 263.875"></polygon>
+            <polygon id="Path" fill="#3F3D56" fill-rule="nonzero" points="453.573 390.082 455.038 388.717 461.753 395.939 468.466 388.713 469.931 390.077 461.754 398.875"></polygon>
+            <circle id="Oval" fill="#3F3D56" fill-rule="nonzero" cx="461.73528" cy="331.37543" r="11"></circle>
+            <rect id="Rectangle" fill="#3F3D56" fill-rule="nonzero" x="369" y="0" width="182" height="226"></rect>
+            <path d="M448.6211,84.13446 L407.31744,84.13446 C404.4988,67.8398973 404.4988,51.1823527 407.31744,34.88779 L448.6211,34.88779 C443.96792,50.9735972 443.96792,68.0486528 448.6211,84.13446 L448.6211,84.13446 Z" id="Path" fill="#FF6584" fill-rule="nonzero"></path>
+            <path d="M471.3789,109.11221 L512.68256,109.11221 C515.5012,92.8176473 515.5012,76.1601027 512.68256,59.86554 L471.3789,59.86554 C476.03208,75.9513472 476.03208,93.0264028 471.3789,109.11221 Z" id="Path" fill="#00B0FF" fill-rule="nonzero"></path>
+            <path d="M432.3789,191.11221 L473.68256,191.11221 C476.5012,174.817647 476.5012,158.160103 473.68256,141.86554 L432.3789,141.86554 C437.03208,157.951347 437.03208,175.026403 432.3789,191.11221 L432.3789,191.11221 Z" id="Path" fill="#00B0FF" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill="#3F3D56" fill-rule="nonzero" x="748" y="215" width="182" height="226"></rect>
+            <rect id="Rectangle" fill="#00B0FF" fill-rule="nonzero" x="774" y="263" width="130" height="6"></rect>
+            <rect id="Rectangle" fill="#00B0FF" fill-rule="nonzero" x="774" y="284" width="130" height="6"></rect>
+            <rect id="Rectangle" fill="#00B0FF" fill-rule="nonzero" x="774" y="305" width="130" height="6"></rect>
+            <rect id="Rectangle" fill="#00B0FF" fill-rule="nonzero" x="774" y="326" width="130" height="6"></rect>
+            <rect id="Rectangle" fill="#00B0FF" fill-rule="nonzero" x="774" y="347" width="130" height="6"></rect>
+            <rect id="Rectangle" fill="#00B0FF" fill-rule="nonzero" x="805" y="369" width="68" height="24"></rect>
+            <rect id="Rectangle" fill="#3F3D56" fill-rule="nonzero" x="385" y="447" width="182" height="226"></rect>
+            <rect id="Rectangle" fill="#00B0FF" fill-rule="nonzero" x="411.29654" y="572.80611" width="130" height="6"></rect>
+            <rect id="Rectangle" fill="#00B0FF" fill-rule="nonzero" x="411.29654" y="593.80611" width="130" height="6"></rect>
+            <rect id="Rectangle" fill="#00B0FF" fill-rule="nonzero" x="411.29654" y="614.80611" width="130" height="6"></rect>
+            <rect id="Rectangle" fill="#00B0FF" fill-rule="nonzero" x="411.29654" y="635.80611" width="130" height="6"></rect>
+            <path d="M451.1211,527.44057 L409.81744,527.44057 C406.9988,511.146004 406.9988,494.488456 409.81744,478.19389 L451.1211,478.19389 C446.46792,494.279701 446.46792,511.354759 451.1211,527.44057 L451.1211,527.44057 Z" id="Path" fill="#00B0FF" fill-rule="nonzero" opacity="0.3"></path>
+            <rect id="Rectangle" fill="#00B0FF" fill-rule="nonzero" opacity="0.3" x="468.29654" y="482.80611" width="76" height="5"></rect>
+            <rect id="Rectangle" fill="#00B0FF" fill-rule="nonzero" opacity="0.3" x="468.29654" y="500.80611" width="76" height="5"></rect>
+            <rect id="Rectangle" fill="#00B0FF" fill-rule="nonzero" opacity="0.3" x="468.29654" y="518.80611" width="76" height="5"></rect>
+            <rect id="Rectangle" fill="#00B0FF" fill-rule="nonzero" opacity="0.3" x="468.29654" y="536.80611" width="76" height="5"></rect>
+        </g>
+    </g>
+</svg>
