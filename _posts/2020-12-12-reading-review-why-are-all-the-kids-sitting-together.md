@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Reading review - why are all the black kids sitting together in the cafeteria
+title:      Reading review - Why are all the black kids sitting together in the cafeteria
 tags: ["reading"]
 image: '/images/posts/2020-12-12-why-are-all-the-black-kids-sitting-together/cover.svg'
 ---
