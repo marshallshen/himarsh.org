@@ -3,8 +3,8 @@ layout: page
 title: working with me
 ---
 
-###### version 1.0
-###### last updated 2020.12.10
+###### version 1.1
+###### last updated 2020.12.23
 
 ## Motivation for this document
 Every technical leader is different. This document is an effort to share my working style and set working expectations.
@@ -22,7 +22,7 @@ My role is to help build a resilient and diverse engineering team. As a team, we
 
 
 ## My Expectations
-* **take ownership**. We as a team, are responsible for whatever we promise to the business. Everyone shares the praise and blame. Delivering meaningful products doesn’t stop at merging code, the team should also own release the feature to our users, and ensure the code quality is high, both for our team and Venmo as a whole.
+* **take ownership**. Doing something is different from owning something. Doing is about taking action, while owning is taking action AND being committed to and responsible for achieving the intended outcome.
 * **optimization over perfection**. No product is perfect, what’s meaningful to us is making products better, and we become better along the way. Done is better than perfect.
 * **be kind to each other**. Be mindful of others’ time and space, treat others how we want to be treated. For example, when scheduling a meeting or asking for help, be mindful of when people are not available. When the team is together for a team, stay present at the moment, give the best attention to each other, and the subject at hand.
 * **celebrate and learn**. We celebrate our successes, and we learn from our mistakes. It’s through reflection and iteration that we deliver and grow. 
@@ -35,5 +35,8 @@ My role is to help build a resilient and diverse engineering team. As a team, we
 * Don’t save urgent matters for a 1-1!
 
 ## Personality quirks
+* I’m more comfortable in small groups than big ones.
+* I care deeply about understanding first principles.
+* I need time alone to reflect and process new facts before forming an opinion.
 * According to Myers–Briggs Type Indicator, I’m classified as INTJ personality type. And I tend to do what others expect of me, as well as what I expect from myself.
 * When facing situations or challenges that I am familiar with, I tend  to act quickly in an organized way (e.g. checklist). However, when facing unknown situations, I tend to take more time to process information and ask questions and come up with actions later on.
