@@ -4,16 +4,16 @@ title: working with me
 ---
 
 ###### version 1.1
-###### last updated 2020.12.23
+###### last updated 2021.01.06
 
 ## Motivation for this document
 Every technical leader is different. This document is an effort to share my working style and set working expectations.
 
-### note on the version number (v1.0)
+### note on the version number (v1.1)
 Being a leader is a process and constant work-in-progress. And this document will evolve with new learnings and reflections.
 
 ## My role
-My role is to help build a resilient and diverse engineering team. As a team, we have two primary goals: delivery and growth. By delivery, we mean shipping meaningful products with solid requirements within the expected timeframe. By growth, we mean that by delivering meaningful products, the people within the team get better and grow in their career path.
+My role is to help build a resilient and diverse engineering team. Engineering teams have two primary goals: delivery and growth. By delivery, I mean shipping meaningful products with solid requirements within the expected timeframe. By growth, I mean that by delivering meaningful products, the people within the team get better and grow in their career path.
 
 ## What do I value most?
 * **feedback**. Timely and actionable feedback helps me grow and the team better. I like to ask questions when receiving feedback to understand the context, and take actions based on my understanding.
