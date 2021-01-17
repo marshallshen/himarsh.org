@@ -23,7 +23,7 @@ To build up buoyancy, we make effort to de-catastrophize rejections, the thinkin
 2. Persvasive bias. Rejection can beget a loop of negative confirmation. You think: "This always happens!" But in reality, it doesn't always happen. Focus instead on all the times you've prevailed in the past.
 3. Permanent bias. No final rejection is a final word. Think about all the ways things aren't ruined. Then get back up, dust yourself off, and start selling again.
 
-**Clarity** is the ability to see a situation in a fresh light and help people surface problems they didn't realize that they had."
+**Clarity** is the ability to see a situation in a fresh light and help people surface problems they didn't realize that they had.
 
 In the past, sales was a role that was revolved around expertise -- the seller knows more than the buyer. But the era of information parity means shifting the persuader's role from information gatekeeper to curator. It also means shifting from *problem-solving* to *problem-finding*.
 
