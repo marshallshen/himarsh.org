@@ -3,23 +3,23 @@ layout: page
 title: working with me
 ---
 
-###### version 1.1
-###### last updated 2021.01.06
+###### version 1.2
+###### last updated 2021.01.24
 
 ## Motivation for this document
 Every technical leader is different. This document is an effort to share my working style and set working expectations.
 
-### note on the version number (v1.1)
+### note on the version number
 Being a leader is a process and constant work-in-progress. And this document will evolve with new learnings and reflections.
 
 ## My role
-My role is to help build a resilient and diverse engineering team. Engineering teams have two primary goals: delivery and growth. By delivery, I mean shipping meaningful products with solid requirements within the expected timeframe. By growth, I mean that by delivering meaningful products, the people within the team get better and grow in their career path.
+My role is to help build resilient and collaborative engineering teams. Engineering teams have two primary goals: delivery and growth. By delivery, I mean shipping meaningful products with solid requirements within the expected timeframe. By growth, I mean that by delivering meaningful products, the people within the team get better and grow in their career.
 
 ## What do I value most?
+* **growth mindset**. Everyone has the ability to learn and grow. Failure is not evidence of unintelligence but as a heartening springboard for growth and for stretching our existing abilities.
 * **feedback**. Timely and actionable feedback helps me grow and the team better. I like to ask questions when receiving feedback to understand the context, and take actions based on my understanding.
 * **collaboration**. A group is smarter than an individual. When I encounter a problem that is complex to solve, I proactively reach out to specific people for help and be clear on what I need help on.
 * **first principle**. When approaching any situation, seek to understand the root cause of the situation before taking action.
-
 
 ## My Expectations
 * **take ownership**. Doing something is different from owning something. Doing is about taking action, while owning is taking action AND being committed to and responsible for achieving the intended outcome.

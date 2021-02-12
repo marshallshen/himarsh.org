@@ -13,7 +13,7 @@ An almost fail-safe way to start a chat that quickly turns into a real conversat
 
 ### awe question - "And what else?"
 
-..even though we don’t really know what the issue is, or what’s going on for the person, we’re quite sure we’ve got the answer she needs. “And what else?” breaks that cycle. When asking it becomes a habit, it’s often the simplest way to stay lazy and stay curious.
+Even though we don’t really know what the issue is, or what’s going on for the person, we’re quite sure we’ve got the answer she needs. “And what else?” breaks that cycle. When asking it becomes a habit, it’s often the simplest way to stay lazy and stay curious.
 
 ### focus question - "What’s the Real Challenge Here for You?"
 
