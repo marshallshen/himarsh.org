@@ -38,7 +38,7 @@ Some guidelines start to emerge given the constraints listed above.
 
 Detect problems early, even better, fix the issue before it has a major customer impact. This can be done if and only if there's a sufficient alerting and monitoring system. Great alerting and monitoring result from a good engineering culture, in that observability, is part of the development lifecycle. How to build such a culture is a topic of a whole blogpost along.
 
-### virtual command center.
+### virtual command center
 
 Create a virtual command center, broadcast details of the virtual command center to the company right away. Criteria of a solid virtual command center include but not limited to:
 
