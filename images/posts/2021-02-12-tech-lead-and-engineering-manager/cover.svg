@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1500px" height="926px" viewBox="0 0 1500 926" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tech-lead-and-engineering-manager</title>
+    <g id="tech-lead-and-engineering-manager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#91CCC8" x="371" y="318" width="800" height="75"></rect>
+        <rect id="Rectangle" fill="#8995EA" x="571" y="531" width="800" height="75"></rect>
+        <rect id="Rectangle" fill="#8995EA" x="1171" y="318" width="200" height="75"></rect>
+        <rect id="Rectangle" fill="#91CCC8" x="371" y="531" width="200" height="75"></rect>
+        <text id="tech-lead" font-family="Futura-Medium, Futura" font-size="40" font-weight="400" fill="#000000">
+            <tspan x="130" y="353">tech lead</tspan>
+        </text>
+        <text id="eng-manager" font-family="Futura-Medium, Futura" font-size="40" font-weight="400" fill="#000000">
+            <tspan x="93" y="576">eng manager</tspan>
+        </text>
+        <text id="project" font-family="Futura-Medium, Futura" font-size="30" font-weight="400" fill="#FFFFFF">
+            <tspan x="708" y="364">project</tspan>
+        </text>
+        <text id="people" font-family="Futura-Medium, Futura" font-size="30" font-weight="400" fill="#FFFFFF">
+            <tspan x="924" y="575">people</tspan>
+        </text>
+        <text id="people" font-family="Futura-Medium, Futura" font-size="30" font-weight="400" fill="#FFFFFF">
+            <tspan x="1224" y="364">people</tspan>
+        </text>
+        <text id="project" font-family="Futura-Medium, Futura" font-size="30" font-weight="400" fill="#FFFFFF">
+            <tspan x="424" y="578">project</tspan>
+        </text>
+    </g>
+</svg>
