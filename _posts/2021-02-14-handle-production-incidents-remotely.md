@@ -32,7 +32,7 @@ So how can we do better? In order to do better, we first need to understand what
 
 Some guidelines start to emerge given the constraints listed above.
 
-## guidelines to respond to incidents better
+## guidelines to better incident respondence
 
 ### detect problems before customers
 
@@ -84,6 +84,7 @@ The timeline of an incident is composed of four distinct stages, Customer Impact
 Nearly every well-run incident can fit into the model above.
 
 **how to communicate to customers during an incident**
+
 While the incident is happening, it's crucial to keep customers in the loop. Information should be shared with customers when an incident enters a new stage. It is the responsibility of an incident commander to communicate when an incident enters a new stage. It is the Customer Success team's responsibility to communicate out to customers when the stage is changed.
 
 ## conclusion
