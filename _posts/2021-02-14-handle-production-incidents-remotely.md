@@ -5,7 +5,6 @@ tags: ["essay"]
 image: '/images/posts/2021-02-14-handle-production-incidents-remotely/cover.svg'
 ---
 
-
 All of a sudden, things start to go badly. Support tickets begin to flood in with the same complaints - the app stops working.
 The engineers start to investigate in their own homes. The production app is on fire, and we are all remote.
 
