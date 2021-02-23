@@ -7,7 +7,7 @@ image: '/images/posts/2021-02-21-principles-as-compass/cover.svg'
 
 Imagine a group of people going on a journey to pursue a guiding star across a mountain range. As the time goes on, that guiding star is always out there on the horizon, never attainable, but always pulling the people forward. At any given moment, more people might join or leave the group, but the group is always climbing a mountain to reach the guiding star. Once the group reach the top, they need to sight against the guiding star and pick yet another mountain to climb.
 
-Growing a company is like this journey in pursuing of a guiding star. Each day on this journey, people are faced with a blizzard of situations to respond to. How to ensure the group is heading towards the right direction? How to decide which mountain to climb and how? The team needs a compass to guide them throughout the journey, and that compass is principles.
+Growing a company is like this journey in pursuit of a guiding star. Each day on this journey, people are faced with a blizzard of situations to respond to. How to ensure the group is heading towards the right direction? How to decide which mountain to climb and how? The team needs a compass to guide them throughout the journey, and that compass is principles.
 
 What are principles?  As Ray Dalio puts it in his book [Principles](https://www.amazon.com/Principles-Life-Work-Ray-Dalio-ebook/dp/B071CTK28D):
 > Principles are fundamental truths that serve as the foundations for behavior that gets you what you want out of life. They can be applied again and again in similar situations to help you achieve your goals.
