@@ -26,6 +26,7 @@ jobs:
           node-version: '14'
       - name: Jekyll build
         run: |
-          bundle exec jekyll build
+          set -x
+          bundle exec jekyll build --trace
       - run: ls -la
       
