@@ -21,9 +21,9 @@ jobs:
           role-to-assume: arn:aws:iam::830097137869:role/himarsh-org-role
           aws-region: us-east-1
           role-session-name: GithubAction
-      - uses: actions/setup-ruby@v1
+      - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.6'
+          ruby-version: "2.6.2"
       # - name: Bundle install
       #   run: |
       #     gem install bundler
