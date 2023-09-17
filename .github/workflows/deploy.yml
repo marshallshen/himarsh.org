@@ -17,6 +17,11 @@ jobs:
       image: ruby:2.6.2
     steps:
       - uses: actions/checkout@v3
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::830097137869:role/himarsh-s3-oidc
+          aws-region: us-east-2
       - name: Bundle install
         run: |
           gem install bundler
@@ -28,15 +33,7 @@ jobs:
         run: |
           set -x
           bundle exec jekyll build --trace
-      - name: Configure AWS Credentials
-        uses: aws-actions/configure-aws-credentials@v4
-        with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: us-east-1
-          role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
-          role-duration-seconds: 1200
-          role-session-name: deploy-webiste-session
+
       - name: Upload files to S3
         run: |
           aws s3 sync _site/ s3://himarsh.org
