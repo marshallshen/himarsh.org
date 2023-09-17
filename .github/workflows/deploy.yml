@@ -23,7 +23,7 @@ jobs:
           role-session-name: GithubAction
       - uses: actions/setup-ruby@v1
         with:
-          ruby-version: '2.6.2'
+          ruby-version: '2.6'
       # - name: Bundle install
       #   run: |
       #     gem install bundler
