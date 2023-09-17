@@ -13,8 +13,6 @@ jobs:
       contents: read
       id-token: write
     runs-on: ubuntu-latest
-    container:
-      image: ruby:2.6.2
     steps:
       - uses: actions/checkout@v3
       - name: Configure AWS Credentials
@@ -23,10 +21,13 @@ jobs:
           role-to-assume: arn:aws:iam::830097137869:role/himarsh-org-role
           aws-region: us-east-1
           role-session-name: GithubAction
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.6.2'
       # - name: Bundle install
       #   run: |
       #     gem install bundler
-      #     bundle install --jobs 4 --retry 3 --path vendor/bundle
+      #     bundle install
       # - uses: actions/setup-node@v3
       #   with:
       #     node-version: '14'
