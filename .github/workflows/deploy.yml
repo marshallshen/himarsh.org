@@ -1,0 +1,28 @@
+name: Deploy Web Artifact
+run-name: ${{ github.actor }} is deploying himarsh.org 🚀
+
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  Deploy-Website:
+    permissions:
+      contents: 'read'
+      id-token: 'write'
+    runs-on: ubuntu-latest
+    container:
+      image: ruby:2.6.2
+    steps:
+      - uses: actions/checkout@v3
+      - name: Bundle install
+        run: |
+          gem install bundler
+          bundle install --jobs 4 --retry 3 --path vendor/bundle
+      - name: Jekyll build
+        run: |
+          bundle exec jekyll build
+      - run: ls -la
+      
