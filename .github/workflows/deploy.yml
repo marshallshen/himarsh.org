@@ -13,8 +13,8 @@ jobs:
       contents: read
       id-token: write
     runs-on: ubuntu-latest
-    # container:
-    #   image: ruby:2.6.2
+    container:
+      image: ruby:2.6.2
     steps:
       - uses: actions/checkout@v3
       - name: Configure AWS Credentials
