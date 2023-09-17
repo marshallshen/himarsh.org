@@ -24,18 +24,18 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: "2.6.2"
-      # - name: Bundle install
-      #   run: |
-      #     gem install bundler
-      #     bundle install
-      # - uses: actions/setup-node@v3
-      #   with:
-      #     node-version: '14'
-      # - name: Jekyll build
-      #   run: |
-      #     set -x
-      #     bundle exec jekyll build --trace
+      - name: Bundle install
+        run: |
+          gem install bundler
+          bundle install
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+      - name: Jekyll build
+        run: |
+          set -x
+          bundle exec jekyll build --trace
 
-      # - name: Upload files to S3
-      #   run: |
-      #     aws s3 sync _site/ s3://himarsh.org
+      - name: Upload files to S3
+        run: |
+          aws s3 sync _site/ s3://himarsh.org
