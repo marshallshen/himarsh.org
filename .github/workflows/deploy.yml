@@ -10,31 +10,31 @@ on:
 jobs:
   Deploy-Website:
     permissions:
-      contents: 'read'
-      id-token: 'write'
+      contents: read
+      id-token: write
     runs-on: ubuntu-latest
-    container:
-      image: ruby:2.6.2
+    # container:
+    #   image: ruby:2.6.2
     steps:
       - uses: actions/checkout@v3
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
-          role-to-assume: arn:aws:iam::830097137869:role/himarsh-s3-oidc
+          role-to-assume: arn:aws:iam::830097137869:role/himarsh-org-role
           aws-region: us-east-1
-          role-session-name: GithubActionDeployment
-      - name: Bundle install
-        run: |
-          gem install bundler
-          bundle install --jobs 4 --retry 3 --path vendor/bundle
-      - uses: actions/setup-node@v3
-        with:
-          node-version: '14'
-      - name: Jekyll build
-        run: |
-          set -x
-          bundle exec jekyll build --trace
+          role-session-name: GithubAction
+      # - name: Bundle install
+      #   run: |
+      #     gem install bundler
+      #     bundle install --jobs 4 --retry 3 --path vendor/bundle
+      # - uses: actions/setup-node@v3
+      #   with:
+      #     node-version: '14'
+      # - name: Jekyll build
+      #   run: |
+      #     set -x
+      #     bundle exec jekyll build --trace
 
-      - name: Upload files to S3
-        run: |
-          aws s3 sync _site/ s3://himarsh.org
+      # - name: Upload files to S3
+      #   run: |
+      #     aws s3 sync _site/ s3://himarsh.org
