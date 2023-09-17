@@ -22,6 +22,7 @@ jobs:
         with:
           role-to-assume: arn:aws:iam::830097137869:role/himarsh-s3-oidc
           aws-region: us-east-1
+          role-session-name: GithubActionDeployment
       - name: Bundle install
         run: |
           gem install bundler
