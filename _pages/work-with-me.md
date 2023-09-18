@@ -3,9 +3,6 @@ layout: page
 title: working with me
 ---
 
-###### version 1.3
-###### last updated 2021.02.13
-
 ## why this document
 Every technical leader is different. This document is an effort to share my working style and set working expectations.
 
