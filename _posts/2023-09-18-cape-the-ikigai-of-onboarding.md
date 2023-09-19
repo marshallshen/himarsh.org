@@ -9,10 +9,10 @@ The Japanese philosophy of Ikigai embodies the idea of **discovering purpose, me
 
 When we join a new company, a successful onboarding experience entails the alignment of four elements: context (comprehending the business context), access (gaining access to needed business operations), productivity (making valuable contributions to the business), and engagement (fostering strong team relationships).
 
-- **Context**: comprehending the business context
-- **Access**: gaining access to needed business operations
-- **Productivity**: making valuable contributions to the business
-- **Engagement**: fostering strong team relationships
+- **Context**: understand the business context
+- **Access**: get access to needed business operations
+- **Productivity**: make valuable contributions to the business
+- **Engagement**: foster strong team relationships
 
 **Understand Business Context.** New employees enter the business with a fresh perspective but limited context. They may wonder what value the business produces and how they can contribute to it. By providing this context, new employees can have meaningful conversations with their leaders and team members, understand the business's expectations, and align their career goals accordingly.
 
