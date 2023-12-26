@@ -31,7 +31,7 @@ RUN rm -rf ruby-2.6.2 ruby-2.6.2.tar.gz
 WORKDIR /app
 ADD . /app
 
-RUN gem install bundler
+RUN gem install bundler -v 2.4.22
 RUN bundle install
 
 RUN ["irb"]
